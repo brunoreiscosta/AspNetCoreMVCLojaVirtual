@@ -379,3 +379,6 @@ D:\GitHub\AspNetCoreMVCLojaVirtual\Seção 07\LojaVirtual\LojaVirtual\bin\Debug\
 D:\GitHub\AspNetCoreMVCLojaVirtual\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.csproj.CoreCompileInputs.cache
 D:\GitHub\AspNetCoreMVCLojaVirtual\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.MvcApplicationPartsAssemblyInfo.cs
 D:\GitHub\AspNetCoreMVCLojaVirtual\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\LojaVirtual.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\AspNetCoreMVCLojaVirtual\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\GitHub\AspNetCoreMVCLojaVirtual\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\GitHub\AspNetCoreMVCLojaVirtual\Seção 07\LojaVirtual\LojaVirtual\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
