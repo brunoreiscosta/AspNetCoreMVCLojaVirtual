@@ -1,0 +1,21 @@
+﻿@model LojaVirtual.Models.Produto
+
+<h3>Produto -> Visualizar</h3>
+
+RAZOR:
+<br/>
+@{ 
+    string nome = "Bruno Costa"; //Codigo c# pode ser usado dentro do Razor com chaves
+}
+
+@nome <!--Sem as chaves o razor pode ser usado para escrever-->
+<br/>
+<h3>Produto: </h3>
+
+<b>ID: </b>@Model.Id<br/>
+<b>Nome: </b>@Model.Nome<br/>
+<b>Descricao: </b>@Model.Descricao<br/>
+<b>Valor: </b>@Model.Valor.ToString("C")<br/>
+
+<br/>
+Todos os direitos reservados &copy; @DateTime.Now.Year
