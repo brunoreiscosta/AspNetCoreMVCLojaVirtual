@@ -6201,11 +6201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\AspNetCoreMVCLojaVirtual\\Seção 07\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
+      "projectUniqueName": "D:\\GitHub\\AspNetCoreMVCLojaVirtual\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
       "projectName": "LojaVirtual",
-      "projectPath": "D:\\GitHub\\AspNetCoreMVCLojaVirtual\\Seção 07\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
+      "projectPath": "D:\\GitHub\\AspNetCoreMVCLojaVirtual\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
       "packagesPath": "C:\\Users\\reis_\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\AspNetCoreMVCLojaVirtual\\Seção 07\\LojaVirtual\\LojaVirtual\\obj\\",
+      "outputPath": "D:\\GitHub\\AspNetCoreMVCLojaVirtual\\LojaVirtual\\LojaVirtual\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\reis_\\AppData\\Roaming\\NuGet\\NuGet.Config",

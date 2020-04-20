@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "++CLVdiDGsxUcewqEXtY8F4C0r46iAW2PyH3eaGFjP9y25N3Ui1WXk3sCdaq5c74v0HWry3TIDfsnF3reD+RaQ==",
+  "dgSpecHash": "elMv9dGEuHbTEBGo1nhAz6pcLF3lYcYedOnu/Jwiqj55iwQ35oUlxlBHYLdpN+hiTpMKH8WXYTNuMyYIRm7wfQ==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\AspNetCoreMVCLojaVirtual\\Seção 07\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
+  "projectFilePath": "D:\\GitHub\\AspNetCoreMVCLojaVirtual\\LojaVirtual\\LojaVirtual\\LojaVirtual.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\reis_\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\reis_\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.3\\microsoft.aspnetcore.mvc.razor.extensions.3.1.3.nupkg.sha512",
