@@ -18,6 +18,17 @@ namespace LojaVirtual.Controllers
             return View();
         }
 
+        public IActionResult ContatoAcao()
+        {
+            string nome = HttpContext.Request.Form["nome"];
+            string email = HttpContext.Request.Form["email"];
+            string texto = HttpContext.Request.Form["texto"];
+            return new ContentResult()
+            {
+                Content = $" Dados Recebidos com Sucesso <br/> Nome: {nome},  <br/> E-mail {email} <br/> Texto: {texto}", ContentType = "text/html"
+            };
+        }
+
         public IActionResult Login()
         {
             return View();
